@@ -4,7 +4,7 @@
 The Health data set was used to find trend and any key information that could be useful to an organisation to ensure that they can make the best decisions possible to provide the best care and support whilst making informed choices. The project was done by importing csv files to tableau so that I could create dashboards to create more thorough visualisaions compared to what I could achieve in excel.
 </p>
 
-# The dataset
+<h2>Dataset</h2>
 
 <p>
   The csv file contain a table with this data. Continent, Country, Year, Life Expectancy, Gender, BMI, Blood Pressure, Cholesterol, Lung Cancer, Liver Cancer, Stomach Cancer, Population, Population Growth
