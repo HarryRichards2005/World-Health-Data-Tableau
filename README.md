@@ -21,4 +21,6 @@ The Health data set was used to find trend and any key information that could be
 <div>
 <img width="1369" height="775" alt="image" src="https://github.com/user-attachments/assets/a37e68b5-4a8e-45a7-bf1f-55270bc029f1" />
  <p>I used a bar graph to visually compare data across different catergories to the cancer rates in countries across the world.</p>
+ <p>I put the country in the rows and the average proportional cancer rates in the columns. I fileterd it by country and added continent to the column marks.</p>
+ <p>From this graph we can learn that japan has a significantly higher cancer rates compared to others.</p>
 </div>
