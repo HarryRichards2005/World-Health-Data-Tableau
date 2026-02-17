@@ -24,3 +24,7 @@ The Health data set was used to find trend and any key information that could be
  <p>I put the country in the rows and the average proportional cancer rates in the columns. I fileterd it by country and added continent to the column marks.</p>
  <p>From this graph we can learn that japan has a significantly higher cancer rates compared to others.</p>
 </div>
+<div>
+<h2>What I learned</h2>
+<p>This was my introduction to data visualisation outside of Excel, I have realised that Tableau provides more functionality for visualisations and it is easier to create certain visuals.</p>
+</div>
